@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">Olá, sou o <strong>Ramom Ferraz</strong></br>
+Desenvolvedor Web Full Stack</p>
 
-<!--
-**ramomfrz/ramomfrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Tecnologias</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white">
+</div>
+<br>
+
+
+<div align="center">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ramomfrz&theme=tokyonight&layout=compact"/>
+
+</div>
