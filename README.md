@@ -18,7 +18,8 @@
 <br>
 
 
-<div align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ramomfrz&theme=tokyonight&layout=compact"/>
+<div align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramomfrz&layout=compact&&custom_title=Linguagens%20Mais%20Usadas&theme=tokyonight&langs_count=4">
+
 
 </div>
