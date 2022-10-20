@@ -18,7 +18,7 @@
 <br>
 
 
-<div align="right">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramomfrz&layout=compact&&custom_title=Linguagens%20Mais%20Usadas&theme=tokyonight&langs_count=4">
 
 
