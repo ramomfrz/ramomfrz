@@ -1,5 +1,5 @@
-<p align="center">Olá, sou o <strong>Ramom Ferraz</strong></br>
-Desenvolvedor Web Full Stack</p>
+<h3 align="center">Olá, sou o <strong>Ramom Ferraz</strong></h3>  
+<h4 align="center">Desenvolvedor Web Full Stack 👨‍💻 </h4>
 
 <h2> Tecnologias</h2>
 
